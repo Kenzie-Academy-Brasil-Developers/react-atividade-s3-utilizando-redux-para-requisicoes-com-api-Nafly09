@@ -14,5 +14,6 @@ export const SearchContainer = styled.div`
 export const StyledTextField = styled(TextField)`
   && {
     width: 20rem;
+    margin-right: 10px;
   }
 `;
